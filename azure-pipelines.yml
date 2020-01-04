@@ -13,5 +13,5 @@ steps:
 - task: CmdLine@2
   inputs:
     script: |
-      java Helloworld.java
-      javac Helloworld
+      java helloworld.java
+      javac helloworld
